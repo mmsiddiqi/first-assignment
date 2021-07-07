@@ -1,0 +1,131 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin-left: 20%;
+    margin-right: 30%;
+
+}
+
+h1{
+    font-size: 30px;
+}
+
+.slogan-skip{
+    color: orange;
+}
+.slogan-food{
+    color:royalblue;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 30px;
+    
+}
+
+
+
+
+
+.media{
+    background-color: rgba(240, 238, 232, 0.795);
+    height: 70px;
+    border-radius: 10px;
+}
+.social-media{
+    margin-top: 15px;
+    margin-right: 200px;
+    font-size: 20px;
+    font-weight:900;
+}
+
+.instagram{
+    font-size:5px ;
+    color:black;
+}
+
+
+.live-healthy{
+    background-color: black;
+    height: 100px;
+}
+
+.footer{
+    color: white;
+    text-align: center;
+    
+    
+}
+
+.theme{
+    padding-bottom: 20px;
+    font-size: 5px;
+}
+
+#our-name{
+    padding-top: 15px;
+}
+#food{
+    
+    color: tomato;
+}
+
+.first{
+    margin-left: 100px;
+}
+
+
+.about-us{
+    background-image: url(gallery/shapes/59.jpg);
+    margin-left: 75px;
+}
+
+#dish{
+   margin-left: 50%;
+}
+
+
+div #description{
+    color: royalblue;
+    padding-left: 35%;
+    padding-right: 20%;
+}
+
+
+
+
+.div-width{
+    width: 50%;
+    padding-left:10% ;
+    margin-top: 20%;
+    
+}
+
+.dish-item{
+    
+    
+}
+
+.image{
+    box-shadow:  10px 10px 80px rgb(122, 172, 81);
+    border: 2px solid rgb(245, 243, 242);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 5px;
+
+}
+
+.div-width img{
+    width: 100%;
+    
+    
+}
+
+.button{
+    
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(#e8c210, #e83d10);
+    
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-bottom: 5px;
+}
